@@ -36,8 +36,6 @@ peak detection.
 5. Mean RR interval = 0.7980 seconds
 6. Estimated heart rate = 75.19 bpm
 
-## RESULT
-
 ## FIGURE 1 - RAW ECG
 <img width="767" height="623" alt="Figure 1 - Raw ECG" src="https://github.com/user-attachments/assets/dc0ef296-46b2-42b9-8e23-627017c2c7e8" />
 
@@ -49,6 +47,10 @@ peak detection.
 
 # FIGURE 4 - QRS DETECTION
 <img width="767" height="623" alt="Figure 4 - QRS Detection" src="https://github.com/user-attachments/assets/81024c6d-055f-4767-8aec-6910f4c79d08" />
+
+## RESULT
+The experiment was performed successfully using MATLAB. The input was processed according to the 
+stated method and the expected biomedical output was obtained.
 
 
 
